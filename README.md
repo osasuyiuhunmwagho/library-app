@@ -14,15 +14,7 @@ API endpoints are tested with **Postman**, and the database is managed using **p
 - [Tech Stack](#tech-stack)
 - [Prerequisites](#prerequisites)
 - [Configuration](#configuration)
-- [Database Setup](#database-setup)
-- [Build & Run](#build--run)
-- [API Endpoints (Examples)](#api-endpoints-examples)
-- [Testing with Postman](#testing-with-postman)
-- [Running Automated Tests](#running-automated-tests)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ---
 
